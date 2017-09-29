@@ -1,3 +1,6 @@
+[![Datmo Project](https://datmo.com/shabazb/iris-classification/badge.svg)](https://datmo.com/shabazb/iris-classification)
+
+
 [![Datmo Project](https://datmo.io/ajay/iris-classification/badge.svg)](https://datmo.io/shabazp/iris-classification)
 
 # iris-classification
